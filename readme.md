@@ -8,13 +8,13 @@
 
 - List Pages
   - Briefy tell what they're used for.
-- ## List Teamplates
-- ## List Page
+- List Teamplates
+- List Page
 
 ## Design Choices
 
 Describe style variant differences.
 
 | Variant | Element / Block | Change | Rational |
-| ------- | --------------- | ------ | -------- | --- |
-| Ty      | Color           |        |          |     |
+| ------- | --------------- | ------ | -------- |
+| Ty      | Color           |        |          |
