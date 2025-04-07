@@ -1,5 +1,12 @@
 # Blank Panther
 
+Cameron Crosby - *President*
+
+Andrea Godsey - *Architect*
+
+Pierce Issah -  *Scrum Master*
+
+
 ## Project Summary
 
 ## Key Takeaways
