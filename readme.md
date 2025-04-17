@@ -15,11 +15,11 @@ This project benefits from the use of:
 - Contact Form Plugin
 - Newsletter Plugin
 - Block Theme Development
--   Gutenberg Tags <!-- -- >
--   Theme.json
--     Block-Level Styling
--     Site-wide Styling
--   Template Files
+   - Gutenberg Tags <!-- -- >
+   - Theme.json
+      - Block-level Styling
+      - Site-wide Styling
+   - Template Files
 - Categories
 
 ## Core TEmplates
