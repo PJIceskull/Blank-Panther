@@ -1,28 +1,30 @@
 # Blank Panther
 
-Cameron Crosby - *President*
+Cameron Crosby - _President_
 
-Andrea Godsey - *Architect*
+Andrea Godsey - _Architect_
 
-Pierce Issah -  *Scrum Master*
-
+Pierce Issah - _Scrum Master_
 
 ## Project Summary
-For this project, we created an informative, engaging WordPress site focused around the Greek Mythos. Our site has 3 main focuses, from news relating to the myths to informing visitors about different characters and settings in traditional myths to keeping them up to date on the site and its staff. The site has an optional contact form to share feedback and questions with the team, as well as an optional newsletter that will let visitors stay abreast of any new updates to the site or relevant information outside the scope of the site. 
+
+For this project, we created an informative, engaging WordPress site focused around the Greek Mythos. Our site has 3 main focuses, from stories relating to the myths of Greek heroes and gods, to informing visitors about different characters and settings in traditional myths, to creating monthly web themes and small summaries centered around one specific Greek god or hero every month. An example would be in our website, our special theme that the user could turn on is centered around Artemis, and they could go to a page that shows more information about the goddess and her importance. The site has an optional contact form to share feedback and questions with the team, as well as an optional newsletter that will let visitors stay abreast of any new updates to the site or relevant information outside the scope of the site.
 
 ## Key Takeaways
+
 This project benefits from the use of:
+
 - Contact Form Plugin
 - Newsletter Plugin
 - Block Theme Development
-   - Gutenberg Tags <!-- -- >
-   - Theme.json
-      - Block-level Styling
-      - Site-wide Styling
-   - Template Files
+  - Gutenberg Tags <!-- -- >
+  - Theme.json
+    - Block-level Styling
+    - Site-wide Styling
+  - Template Files
 - Categories
 
-## Core TEmplates
+## Core Templates
 
 - List Pages
   - Briefy tell what they're used for.
