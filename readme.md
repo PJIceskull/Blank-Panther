@@ -99,7 +99,9 @@ Posts
 
 - Artemis
 
-<!-- Style Variant -->
+Style Variant
+
+- Ancient Greece Web Theme
 
 ### Pierce Issah
 
@@ -135,5 +137,9 @@ Pages
 Posts
 
 - Zeus
+
+Style Variant
+
+- Artemis Monthly Web Theme
 
 <!-- Style Variant -->
