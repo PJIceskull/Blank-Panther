@@ -1,10 +1,18 @@
 # Blank Panther
 
-Cameron Crosby - _President_
+[Cameron Crosby](#https://github.com/crosby7) - _President_
 
-Andrea Godsey - _Architect_
+[Andrea Godsey](https://github.com/AndreaGodsey) - _Architect_
 
-Pierce Issah - _Scrum Master_
+[Pierce Issah](https://github.com/PJIceskull) - _Scrum Master_
+
+## Table of Content
+
+- [Project Summary](#project-summary)
+- [Key Takeaways](#key-takeaways)
+- [Core Templates](#core-templates)
+- [Design Choices](#design-choices)
+- [Members & Responsibilities](#members--responsibilities)
 
 ## Project Summary
 
@@ -66,12 +74,66 @@ This project benefits from the use of:
 
 Describe style variant differences.
 
-## Design Choices
-
-Describe style variant differences.
-
 | Variant                  | Element / Block  | Change                                                                                                                                                                                                                                                                                                                                                   | Rationale                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------ | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Ancient Greece Web Theme | Color/Typography | This color pallete represents the colors of Ancient Greece, for those that want to take a step back in time. The green and red accents reflect the past, back when monuments and statues still retained those same colors. The typography will be symbolic of the past, similar to that of Helvetica.                                                    | This theme would be considered the main theme of the site, therefore it would represent Ancient Greece back when it was at its best. Back then, most of the architecture in Ancient Greece were these colors, therefore the web theme represents that the fact by taking users back to that time. The font will be neutral, but will still be representative of the time with its elegance. |
 | Ancient Text Web Theme   | Color/Typography | The Ancient Tex Web Theme is a more neutral color pallete for those that prefer a calm tone on their website. The color pallete changes to that of ancient papyrus, with tan and light yellow accents. The typography becomes older in appearance, similar to the font Papyrus.                                                                          | Some people would rather have a neutral color pallete as their web theme, since they could consider some web themes as too saturated in color. This web theme caters to those people, so that way users will have the option.                                                                                                                                                               |
 | Monthly Theme: Artemis   | Color/Typography | Each month, a new Greek hero, god/goddess, or myth, will have an entire page devoted to them as well as a web theme. This month is Artemis, therefore the colors of the web theme are similar to the pallete of the moon and sky. The typography will be more elegant, to represent Artemis sophisticated personality. It will be similar to Montserrat. | People love web themes based around characters, and this web theme is no exception. Some may consider Artemis their favorite, and would be interested in changing the web theme to the moon goddess's pallete. This web theme would also make more interested in learning more about Artemis in the Monthly Greek Mythos page.                                                              |
+
+## Members & Responsibilities
+
+### Cameron Crosby
+
+**Role**: President
+
+- Responsible for submitting assignments & project files.
+- Responsible for documenting the [Project Summary](#project-summary) and [Key Takeaways](#key-takeaways) sections.
+
+Pages
+
+- [News Home](#template-six-news-home)
+- [News Post](#template-seven-news-post)
+- [Error 404](#template-eight-error-404)
+
+Posts
+
+- Artemis
+
+<!-- Style Variant -->
+
+### Pierce Issah
+
+**Role**: Scrum Master
+
+- Responsible for writing the [Members & Responsibilities](#members--responsibilities) section of the documentation.
+
+Pages
+
+- [Blog Home](#template-four-blog-home)
+- [Blog Post](#template-five-post)
+
+Posts
+
+- Odysseus
+
+Style Variant
+
+- Old, worn paper color scheme
+
+### Andrea Godsey
+
+**Role**: Architect
+
+- Responsible for writing the [Core Files / Endpoints](#core-templates) and [Design Choices](#design-choices) sections of the documentation.
+
+Pages
+
+- [Home](#template-one-home)
+- [About](#template-two-about)
+- [Contact](#template-three-contact)
+
+Posts
+
+- Zeus
+
+<!-- Style Variant -->
