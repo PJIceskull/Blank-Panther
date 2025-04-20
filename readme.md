@@ -1,6 +1,6 @@
 # Blank Panther
 
-[Cameron Crosby](#https://github.com/crosby7) - _President_
+[Cameron Crosby](https://github.com/crosby7) - _President_
 
 [Andrea Godsey](https://github.com/AndreaGodsey) - _Architect_
 
